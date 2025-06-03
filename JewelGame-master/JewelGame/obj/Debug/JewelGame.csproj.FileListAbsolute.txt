@@ -1,0 +1,13 @@
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\bin\Debug\JewelGame.exe.config
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\bin\Debug\JewelGame.exe
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\bin\Debug\JewelGame.pdb
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.csproj.AssemblyReference.cache
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.FormMenu.resources
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.FormXemThongTinJewel.resources
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.Form_cheDo1Nguoi.resources
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.Form_cheDo2Nguoi.resources
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.Properties.Resources.resources
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.csproj.GenerateResource.cache
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.csproj.CoreCompileInputs.cache
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.exe
+C:\Users\Khoa\Downloads\New folder (7)\JewelGame-master\JewelGame\obj\Debug\JewelGame.pdb
